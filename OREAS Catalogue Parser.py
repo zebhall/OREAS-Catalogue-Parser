@@ -2,7 +2,7 @@
 
 import csv
 
-catalogueName = "oreas-catalogue-2021-02-25.txt"
+catalogueName = "oreas-catalogue-2021-02-25.csv"
 crmPrefix = "OREAS {}"
 
 values_Ag = [" "," "," "]
