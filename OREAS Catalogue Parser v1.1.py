@@ -1,7 +1,4 @@
 #   OREAS Catalogue Parser v1.1 by ZH (22/03/2021)
-#   No external modules required, csv is part of the default library.
-#   To update the catalogue: goto https://www.oreas.com/downloads/ and select 'OREAS CRMs Spreadsheet.csv'. May have to change the file extension to a .txt. Download to the same directory as this .py file, and change the catalogueName variable on line 8 to the new file name.
-#   To add an element: Add it to the list creation section at Ln ~11, as well as a corresponding section in the scraper section at line ~107, and in the output writer at line ~1836
 
 import csv
 
